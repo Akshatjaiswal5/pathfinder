@@ -1,0 +1,7 @@
+.pixel{
+    display: block;
+    background-color: blue;
+    height: 1em;
+    width: 1em;
+    margin: 1px;
+  }
