@@ -6,7 +6,7 @@ function App() {
 
   useEffect(()=>{
     let tmp=[];
-  for(let i=0;i<1800;i++)
+  for(let i=0;i<2520;i++)
    tmp.push(<Pixel/>);
   console.log(tmp)
   setGrid(tmp);
